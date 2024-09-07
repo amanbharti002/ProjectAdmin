@@ -1,0 +1,26 @@
+.AdminHeader{
+    max-width: 100%;
+    background-color: bisque;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.AdminHeader >.AdminNav{
+    background-color:transparent;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+.AdminHeader >.AdminNav >.LeftDiv{
+    width: 30%;
+}
+.AdminHeader >.AdminNav >.RightDiv{
+    width: 60%;
+    text-align: right;
+}
+.DashboardMenu{
+    font-size: 30px;
+}

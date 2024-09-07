@@ -1,0 +1,88 @@
+.Mainhead1{
+    width: 100%;
+    background-color: rgb(189, 122, 255);
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+  }
+  
+  .table{
+
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    border: 0.5px solid rgb(130, 124, 124);
+
+
+}
+
+.table1 tr th{
+    background-color: #fff;
+    text-align: center;
+    border: 0.5px solid rgb(130, 124, 124);
+
+ }
+
+
+.table1 tr td{
+    background-color: #fff;
+    text-align: center;
+
+    border: 0.5px solid rgb(130, 124, 124);
+}
+.table1 tr th{
+  background-color: #fff;
+  text-align: center;
+  border: 0.5px solid rgb(130, 124, 124);
+
+}
+.tab tr th{
+  background-color: #f6fcfc;
+  text-align: center;
+  border: 0.5px solid rgb(45, 44, 44);
+
+}
+
+.tbody tr td{
+  background-color: #fcfbfe;
+  padding: 2px 5px;
+  text-align: center;
+  border: 0.5px solid rgb(143, 140, 140);
+
+}
+.nextprd{
+  width: 100%;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.prev{
+  width: 100px;
+  text-align: center;
+
+}
+.next{
+  width: 100px;
+  text-align: center;
+
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bt1{
+}
+.bt2{
+
+}
+.search{
+  width: 350px;
+  height: 40px;
+  background-color: rgb(252, 252, 251);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

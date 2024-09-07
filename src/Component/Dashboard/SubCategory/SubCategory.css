@@ -1,0 +1,104 @@
+
+.subcat1{
+    background-color: brown;
+}
+.subcat2{
+    width: 20%;
+    background-color: rgb(222, 238, 2);
+    display: flex;
+    justify-content: end;
+    /* margin-left: 70%; */
+}
+.Mainhead{
+  width: 100%;
+  background-color: rgb(127, 76, 177);
+  display: flex;
+  justify-content:space-between;
+  padding: 10px;
+}
+.Mainhead>.left_side{
+  width: 40%;
+  background-color: red;
+}
+
+  .addbtn {
+    background-color: plum;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* CSS */
+  
+  
+  
+  
+  .addsub {
+    background-color: #FFF8E1;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* table */
+
+  .table{
+
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 0.5px solid rgb(130, 124, 124);
+
+
+}
+
+.table1 tr th{
+    background-color: #fff;
+    padding: 15px 60px;
+    text-align: center;
+    border: 0.5px solid rgb(130, 124, 124);
+
+ }
+
+
+.table1 tr td{
+    background-color: #fff;
+    padding: 19px 12px;
+    text-align: center;
+
+    border: 0.5px solid rgb(130, 124, 124);
+}
+.icon{
+   color: #f61717;
+   display: flex;
+   justify-content: space-around;
+}
+
+.bodewjfsdkn td{
+    color: rgb(8, 8, 7);
+    border-left: 0.5px solid rgb(130, 124, 124);
+    border-bottom: 0.5px solid rgb(130, 124, 124);
+}
+
+.pk{
+  width: 300px;
+  height: 250px;
+  background-color: white;
+}
+
+.inpk1{
+  width: 200px;
+  height: 25px;
+  background-color: rgb(254, 254, 254);
+}
+.bt{
+  width:100px;
+  background-color: yellow;
+}
